@@ -29,13 +29,13 @@ p {
 }
 
 .nav {
-  color: red;
+  color: aquamarine;
   font-size: 18px;
 }
 
 .footer {
   font-size: 11px;
-  color: aquamarine;
+  color: white;
   background-color: dimgray;
   text-align: left;
 }
