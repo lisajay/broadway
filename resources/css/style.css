@@ -6,3 +6,8 @@ body {
 h1 {
   font-size: 70px;
 }
+
+.hero {
+  background-image: href=("./resources/images/the-flatiron-building.png")
+  color: red;
+}
